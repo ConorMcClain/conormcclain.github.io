@@ -22,3 +22,5 @@ This portfolio includes my best work from my Programming 101 class!
 ## Recursion Dogon Pot
 - desription
 - image
+
+theme: jekyll-theme-hacker
