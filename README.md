@@ -7,7 +7,7 @@ This portfolio includes my best work from my Programming 101 class!
 - desrciption
 
 ## Wayward Horizons WPF ([C# Adventure Game GUI](https://github.com/ConorMcClain/AdventureGameWPF.git))
-- images of game or perhaps video walkthrough
+- [Wayward Horizon Playthrough :)](https://youtu.be/TbiOTwhuNVU)
 - description
 
 ## Substitution Cypher
