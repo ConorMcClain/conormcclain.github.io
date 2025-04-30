@@ -28,7 +28,7 @@
 - I made a program that would display the 12 Days of Christmas song in the console window
 - My goal was to make it functional in as little code as possible
 
-[Screenshot 2025-03-05 100357](https://github.com/user-attachments/assets/39c48be0-dc15-4ba8-84f7-dd6532ecc2a2)
+![Screenshot 2025-03-05 100357](https://github.com/user-attachments/assets/39c48be0-dc15-4ba8-84f7-dd6532ecc2a2)
 
 ![Screenshot 2025-04-29 201212](https://github.com/user-attachments/assets/851a432c-2e21-460f-8371-7dad92ae95c1)
 
