@@ -1,6 +1,6 @@
 # conormcclain.github.io
 ## Conor McClain Portfolio for Programming 101
-This portfolio includes my best work from my Programming 101 class!
+- This portfolio includes my best work from my Programming 101 class!
 
 ## Wayward Horizons (C# Adventure Game)
 
@@ -10,12 +10,14 @@ This portfolio includes my best work from my Programming 101 class!
 
 ![Screenshot 2025-04-29 200328](https://github.com/user-attachments/assets/db0bac8d-f2a6-47c6-b45c-6311ee76960d)
 
-This is a console application that I created! It was inspired by the Oregon Trail game and Dungeons and Dragons.
-You the player are able to choose to explore a randomly generated list of locations with NPCs and experience different events along the way!
+- This is a console application that I created! It was inspired by the Oregon Trail game and Dungeons and Dragons.
+- You the player are able to choose to explore a randomly generated list of locations with NPCs and experience different events along the way!
 
 ## Wayward Horizons WPF (C# Adventure Game GUI)
 - [Wayward Horizon Playthrough :)](https://youtu.be/TbiOTwhuNVU)
-- description
+
+- This is a GUI of the console application I created! 
+- There were some changes with the gameplay for optimization and functionality in a GUI format but the core gameplay is still the same!
 
 ## Substitution Cypher
 - This a cypher applicaiton! It utilizes both the substition an the caesar/shift cypher to encrpit and decript messages.
