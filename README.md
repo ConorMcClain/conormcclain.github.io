@@ -14,7 +14,7 @@
 - You the player are able to choose to explore a randomly generated list of locations with NPCs and experience different events along the way!
 
 ## Wayward Horizons WPF (C# Adventure Game GUI)
-- [Wayward Horizon Playthrough :)](https://youtu.be/TbiOTwhuNVU)
+- [Wayward Horizons Playthrough :)](https://youtu.be/TbiOTwhuNVU)
 
 - This is a GUI of the console application I created! 
 - There were some changes with the gameplay for optimization and functionality in a GUI format but the core gameplay is still the same!
